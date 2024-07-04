@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Covid-19 Sahayak</string>
+    <string name="pref_header_about">About</string>
+    <string name="summary_about">This Application Provides Live Covid-19 Updates and also provides various other services.</string>
+    <string name="app_version">1.0</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title_terms">Terms &amp; Conditions</string>
+    <string name="title_version">Version</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="summary_support">Got any queries? We are happy to help!</string>
+    <string name="app_desc">Covid-19 Sahayak</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="base_url">https://api.covid19india.org/</string>
+    <string name="title_activity_medical_stores">Map</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">COVID-19</string>
+    <string name="slide_1_desc">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.</string>
+
+    <string name="slide_2_title">Sick?</string>
+    <string name="slide_2_desc">Call the helpline or visit the nearest health center.</string>
+
+    <string name="slide_3_title">Wear Masks</string>
+    <string name="slide_3_desc">Stay Home. Go out only if necessary and wear masks.</string>
+
+    <string name="slide_4_title">Work from Home.</string>
+    <string name="slide_4_desc">Work from Home has become the new norm.</string>
+
+    <string name="slide_5_title">Dark Mode</string>
+    <string name="slide_5_desc">Enjoy the classic dark mode! Enable it in the settings</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="version_of_app">Version 1.0.1</string>
+</resources>
